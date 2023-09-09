@@ -1,0 +1,68 @@
+body{
+    background-image: url(img/Pink\ Red\ Colorful\ Birthday\ Zoom\ Virtual\ Background.jpg);
+
+
+}
+
+.grid-container{
+    display: grid;
+    grid-template-columns: auto auto;
+}
+
+.image{
+    display: inline-block;
+}
+
+.kul{
+    width: 90%;
+    height: 80%;
+    margin-top: 100px;
+}
+.vl {
+    border-left: 5px;
+    border-color: gold;
+    border-style: solid;
+    height: 100%;
+    position: absolute;
+    left: 35%;
+    margin-left: -3px;
+    top: 40px;
+  }
+
+  .first{
+    font-size: 250px;
+    color:black;
+  }
+  .st{
+    display: inline-block;
+    font-size: 150px;
+    font-style: italic;
+    color: black;
+  }
+  
+  .gc{
+    display: inline-block;
+  }
+  .birthday{
+    display: inline;
+    font-size: 80px;
+    margin-left: 20px;
+    color: black;
+    
+  }
+  .para1{
+    font-size: 40px;
+    color: black;
+
+  }
+  p{
+    font-size: 27px;
+    color: black;
+  }
+  .send{
+    font-size: 20px;
+    color: black;
+    text-align: center;
+    margin-top: 10px;
+    font-style: oblique;
+  }
